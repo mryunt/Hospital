@@ -1,0 +1,17 @@
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\Hospital.Business.deps.json
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\Hospital.Business.dll
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\ref\Hospital.Business.dll
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\Hospital.Business.pdb
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\AppCore.dll
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\Hospital.DAL.dll
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\Hospital.DAL.pdb
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\bin\Debug\net5.0\AppCore.pdb
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.csproj.AssemblyReference.cache
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.AssemblyInfoInputs.cache
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.AssemblyInfo.cs
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.csproj.CoreCompileInputs.cache
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.csproj.CopyComplete
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.dll
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\ref\Hospital.Business.dll
+C:\Users\Mr. YUNT\source\repos\Hospital\Hospital.Business\obj\Debug\net5.0\Hospital.Business.pdb
